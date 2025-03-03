@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Business Portfolio</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <!-- Header -->
+        <header id="header">
+            <div class="logo">
+                <span class="icon fa-gem"></span>
+            </div>
+            <div class="content">
+                <div class="inner">
+                    <h1>Welcome to My Business Portfolio</h1>
+                    <p>A showcase of my experience, projects, and expertise.</p>
+                </div>
+            </div>
+        </header>
+        
+        <!-- Main Content -->
+        <div id="main">
+            <article id="about">
+                <h2>About Me</h2>
+                <p>I am an experienced Project Manager with expertise in business analysis, CRM implementation, and process automation.</p>
+            </article>
+            
+            <article id="projects">
+                <h2>Projects</h2>
+                <ul>
+                    <li><strong>Customer Relationship Management (CRM) for a Retail Business</strong> - Implemented a CRM system to enhance customer engagement and sales tracking.</li>
+                    <li><strong>Lead to Opportunity Automation</strong> - Automated the process of converting leads into opportunities, improving efficiency and reducing manual work.</li>
+                </ul>
+            </article>
+            
+            <article id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Project Management</li>
+                    <li>Business Analysis</li>
+                    <li>CRM Implementation (Salesforce)</li>
+                    <li>Process Automation</li>
+                </ul>
+            </article>
+        </div>
+    </div>
+</body>
+</html>
